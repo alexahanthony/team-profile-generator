@@ -1,5 +1,6 @@
 # team-profile-generator
 
+![GIF](./GIF.gif)
 ![Screenshot](./screenshot.png)
 
 # Table of Contents (Optional)

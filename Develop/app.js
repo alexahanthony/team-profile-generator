@@ -143,7 +143,7 @@ function askNextQuestions() {
 function renderFile() {
   let body = " ";
 
-  //for (let i = 0; i < staff.length; i++) {
+  
   for(var key in staff) {
       var value = staff[key];
       body = body + value.cardTemplate();
